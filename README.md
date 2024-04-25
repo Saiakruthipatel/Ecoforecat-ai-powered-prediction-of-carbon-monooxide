@@ -1,2 +1,2 @@
-# Ecoforecat-ai-powered-prediction-of-carbon-monooxide
-Ecoforecat ; ai powered prediction of carbon monooxide project repository
+# Ecoforecast-ai-powered-prediction-of-carbon-monooxide
+Ecoforecast ; ai powered prediction of carbon monooxide project repository
